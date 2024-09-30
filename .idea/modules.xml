@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExpandableListView.iml" filepath="$PROJECT_DIR$/.idea/ExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExpandableListView.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
